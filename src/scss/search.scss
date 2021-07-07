@@ -1,0 +1,13 @@
+@import "./variables.scss";
+
+.search {
+  font-family: $body;
+  padding: 15px;
+  margin-bottom: 20px;
+  width: 100%;
+  background: $light-grey !important;
+  border: none;
+  &:focus {
+    border: none !important;
+  }
+}

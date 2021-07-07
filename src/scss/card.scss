@@ -1,0 +1,32 @@
+@import "./variables.scss";
+@import "./mixins.scss";
+
+.card {
+  text-align: center;
+  margin-bottom: 20px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  border-radius: 0 !important;
+  border: none;
+  img {
+    height: 216px;
+    @include bp-tablet-sm {
+      height: auto;
+    }
+  }
+  a {
+    color: $grey;
+  }
+  .title {
+    background: $secondary;
+    padding: 10px 0px 10px 0px;
+    h2 {
+      font-size: 26px;
+      @include bp-tablet-sm {
+        font-size: initial;
+      }
+    }
+  }
+  p {
+    margin-bottom: 0px;
+  }
+}

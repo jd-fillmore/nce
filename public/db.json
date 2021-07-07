@@ -1,0 +1,347 @@
+{
+	"machines": [{
+			"category": "Skid Steer Loaders",
+			"product_details": [{
+					"id": 1,
+					"model": "226D3",
+					"power": "67.1",
+					"operating_weight": "5849",
+					"description": "Built for tough work, the Caterpillar® Skid Steer Loaders incorporate big iron features. These machines deliver Cat reliability, durability, and efficient operation, even in the toughest working conditions.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190910-c686b-0fdbf"
+				},
+				{
+					"id": 2,
+					"model": "232D3",
+					"power": "67.1",
+					"operating_weight": "6514",
+					"description": "Built for tough work, the Caterpillar® Skid Steer Loaders incorporate big iron features. These machines deliver Cat reliability, durability, and efficient operation, even in the toughest working conditions.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190730-e346c-4dbd8"
+				},
+				{
+					"id": 3,
+					"model": "236D3",
+					"power": "74.3",
+					"operating_weight": "6567",
+					"description": "Built for tough work, the Caterpillar® Skid Steer Loaders incorporate big iron features. These machines deliver Cat reliability, durability, and efficient operation, even in the toughest working conditions.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190926-ee588-778c4?wid=735"
+				},
+				{
+					"id": 4,
+					"model": "239D3",
+					"power": "67.1",
+					"operating_weight": "7434",
+					"description": "Built for tough work, the Caterpillar® Skid Steer Loaders incorporate big iron features. These machines deliver Cat reliability, durability, and efficient operation, even in the toughest working conditions.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190913-9b11b-8556c?wid=735"
+				},
+				{
+					"id": 5,
+					"model": "242D3",
+					"power": "74.3",
+					"operating_weight": "7138",
+					"description": "Built for tough work, the Caterpillar® Skid Steer Loaders incorporate big iron features. These machines deliver Cat reliability, durability, and efficient operation, even in the toughest working conditions.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190926-d30ea-dd374?wid=735"
+				},
+				{
+					"id": 6,
+					"model": "246D3",
+					"power": "74.3",
+					"operating_weight": "7478",
+					"description": "Built for tough work, the Caterpillar® Skid Steer Loaders incorporate big iron features. These machines deliver Cat reliability, durability, and efficient operation, even in the toughest working conditions.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190926-d30ea-dd374?wid=735"
+				},
+				{
+					"id": 7,
+					"model": "249D3",
+					"power": "67.1",
+					"operating_weight": "7831",
+					"description": "Built for tough work, the Caterpillar® Skid Steer Loaders incorporate big iron features. These machines deliver Cat reliability, durability, and efficient operation, even in the toughest working conditions.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190913-5cbee-19cb5?wid=735"
+				},
+				{
+					"id": 8,
+					"model": "259D3",
+					"power": "74.3",
+					"operating_weight": "8987",
+					"description": "Built for tough work, the Caterpillar® Skid Steer Loaders incorporate big iron features. These machines deliver Cat reliability, durability, and efficient operation, even in the toughest working conditions.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190926-84dc8-0279f?wid=735"
+				},
+				{
+					"id": 9,
+					"model": "262D3",
+					"power": "74.3",
+					"operating_weight": "8296",
+					"description": "Built for tough work, the Caterpillar® Skid Steer Loaders incorporate big iron features. These machines deliver Cat reliability, durability, and efficient operation, even in the toughest working conditions.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190913-eb555-db658?wid=735"
+				},
+				{
+					"id": 10,
+					"model": "272D3",
+					"power": "98",
+					"operating_weight": "9133",
+					"description": "Built for tough work, the Caterpillar® Skid Steer Loaders incorporate big iron features. These machines deliver Cat reliability, durability, and efficient operation, even in the toughest working conditions.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190926-2dabd-9a229?wid=735"
+				},
+				{
+					"id": 11,
+					"model": "272D3 XE",
+					"power": "110",
+					"operating_weight": "9573",
+					"description": "Built for tough work, the Caterpillar® Skid Steer Loaders incorporate big iron features. These machines deliver Cat reliability, durability, and efficient operation, even in the toughest working conditions.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190926-e2a6f-f5055?wid=735"
+				},
+				{
+					"id": 12,
+					"model": "279D3",
+					"power": "74.3",
+					"operating_weight": "10095",
+					"description": "Built for tough work, the Caterpillar® Skid Steer Loaders incorporate big iron features. These machines deliver Cat reliability, durability, and efficient operation, even in the toughest working conditions.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190913-9c961-b6c36?wid=735"
+				},
+				{
+					"id": 13,
+					"model": "289D3",
+					"power": "74.3",
+					"operating_weight": "10688",
+					"description": "Built for tough work, the Caterpillar® Skid Steer Loaders incorporate big iron features. These machines deliver Cat reliability, durability, and efficient operation, even in the toughest working conditions.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190913-a2f84-64818?wid=735"
+				},
+				{
+					"id": 14,
+					"model": "299D3",
+					"power": "98",
+					"operating_weight": "11464",
+					"description": "Built for tough work, the Caterpillar® Skid Steer Loaders incorporate big iron features. These machines deliver Cat reliability, durability, and efficient operation, even in the toughest working conditions.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190913-d21ff-f9631?wid=735"
+				},
+				{
+					"id": 15,
+					"model": "299D3 XE",
+					"power": "110",
+					"operating_weight": "11756",
+					"description": "Built for tough work, the Caterpillar® Skid Steer Loaders incorporate big iron features. These machines deliver Cat reliability, durability, and efficient operation, even in the toughest working conditions.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190913-79298-23e21?wid=735"
+				},
+				{
+					"id": 16,
+					"model": "299D3 XE LAND MANAGEMENT",
+					"power": "110",
+					"operating_weight": "12764",
+					"description": "Built for tough work, the Caterpillar® Skid Steer Loaders incorporate big iron features. These machines deliver Cat reliability, durability, and efficient operation, even in the toughest working conditions.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190919-21552-2c358?wid=735"
+				}
+			]
+		},
+		{
+			"category": "Excavators",
+			"product_details": [{
+					"id": 1,
+					"model": "301.7 CR",
+					"power": "21",
+					"operating_weight": "2061",
+					"description": "An extensive line of Cat® mini hydraulic excavators offers the performance to dig in and be productive on every job.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190913-54994-1f2ac?wid=735"
+				},
+				{
+					"id": 2,
+					"model": "300.9D",
+					"power": "13",
+					"operating_weight": "2061",
+					"description": "An extensive line of Cat® mini hydraulic excavators offers the performance to dig in and be productive on every job.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190913-54994-1f2ac?wid=735"
+				},
+				{
+					"id": 3,
+					"model": "301.8",
+					"power": "21",
+					"operating_weight": "4473",
+					"description": "An extensive line of Cat® mini hydraulic excavators offers the performance to dig in and be productive on every job.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190114-57381-17922?wid=735"
+				},
+				{
+					"id": 4,
+					"model": "302 CR",
+					"power": "21",
+					"operating_weight": "4987",
+					"description": "An extensive line of Cat® mini hydraulic excavators offers the performance to dig in and be productive on every job.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20181112-47740-53167?wid=735"
+				},
+				{
+					"id": 5,
+					"model": "302.7D CR",
+					"power": "20.7",
+					"operating_weight": "6239",
+					"description": "An extensive line of Cat® mini hydraulic excavators offers the performance to dig in and be productive on every job.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20130723-81627-12296?wid=735"
+				},
+				{
+					"id": 6,
+					"model": "303.5E2 CR",
+					"power": "23.5",
+					"operating_weight": "8209",
+					"description": "An extensive line of Cat® mini hydraulic excavators offers the performance to dig in and be productive on every job.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20160921-58043-30802?wid=735"
+				},
+				{
+					"id": 7,
+					"model": "303E CR",
+					"power": "23.5",
+					"operating_weight": "7204",
+					"description": "An extensive line of Cat® mini hydraulic excavators offers the performance to dig in and be productive on every job.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/C10386269?wid=735"
+				},
+				{
+					"id": 8,
+					"model": "304E2 CR",
+					"power": "40.2",
+					"operating_weight": "8996",
+					"description": "An extensive line of Cat® mini hydraulic excavators offers the performance to dig in and be productive on every job.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20130721-78722-62413?wid=735"
+				},
+				{
+					"id": 9,
+					"model": "305E2 CR",
+					"power": "40.2",
+					"operating_weight": "11443",
+					"description": "An extensive line of Cat® mini hydraulic excavators offers the performance to dig in and be productive on every job.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20130721-78722-62413?wid=735"
+				},
+				{
+					"id": 10,
+					"model": "306 CR",
+					"power": "55.9",
+					"operating_weight": "15766",
+					"description": "An extensive line of Cat® mini hydraulic excavators offers the performance to dig in and be productive on every job.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190926-66cab-33d2a?wid=735"
+				},
+				{
+					"id": 11,
+					"model": "307.5",
+					"power": "54.8",
+					"operating_weight": "17905",
+					"description": "An extensive line of Cat® mini hydraulic excavators offers the performance to dig in and be productive on every job.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180921-39512-27284?wid=735"
+				},
+				{
+					"id": 12,
+					"model": "308 CR",
+					"power": "69.5",
+					"operating_weight": "20077",
+					"description": "An extensive line of Cat® mini hydraulic excavators offers the performance to dig in and be productive on every job.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180822-53344-03669?wid=735"
+				},
+				{
+					"id": 13,
+					"model": "308 CR VAB",
+					"power": "70.3",
+					"operating_weight": "20906",
+					"description": "An extensive line of Cat® mini hydraulic excavators offers the performance to dig in and be productive on every job.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20181112-28471-42817?wid=735"
+				},
+				{
+					"id": 14,
+					"model": "309 CR",
+					"power": "69.5",
+					"operating_weight": "21091",
+					"description": "An extensive line of Cat® mini hydraulic excavators offers the performance to dig in and be productive on every job.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20181018-39654-63929?wid=735"
+				},
+				{
+					"id": 15,
+					"model": "309 CR VAB",
+					"power": "70.3",
+					"operating_weight": "20731",
+					"description": "An extensive line of Cat® mini hydraulic excavators offers the performance to dig in and be productive on every job.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20181112-28471-04673?wid=735"
+				}
+			]
+		},
+		{
+			"category": "Wheel Loaders",
+			"product_details": [{
+					"id": 1,
+					"model": "903D",
+					"power": "42",
+					"operating_weight": "9414",
+					"description": "An extensive line of Cat® mini hydraulic excavators offers the performance to dig in and be productive on every job.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180709-54617-50895?wid=735"
+				},
+				{
+					"id": 2,
+					"model": "906M",
+					"power": "73",
+					"operating_weight": "12346",
+					"description": "An extensive line of Cat® mini hydraulic excavators offers the performance to dig in and be productive on every job.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20150401-33819-04876?wid=735"
+				},
+				{
+					"id": 3,
+					"model": "908M",
+					"power": "73",
+					"operating_weight": "14032",
+					"description": "An extensive line of Cat® mini hydraulic excavators offers the performance to dig in and be productive on every job.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20151117-54287-18928?wid=735"
+				},
+				{
+					"id": 4,
+					"model": "910",
+					"power": "110",
+					"operating_weight": "18102",
+					"description": "An extensive line of Cat® mini hydraulic excavators offers the performance to dig in and be productive on every job.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20200805-ab151-64dfd?wid=735"
+				},
+				{
+					"id": 5,
+					"model": "914",
+					"power": "110",
+					"operating_weight": "19103",
+					"description": "An extensive line of Cat® mini hydraulic excavators offers the performance to dig in and be productive on every job.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20200805-ab151-64dfd?wid=735"
+				}
+			]
+		},
+		{
+			"category": "Compactors",
+			"product_details": [{
+					"id": 1,
+					"model": "CB1.7",
+					"power": "24.7",
+					"operating_weight": "3538",
+					"description": "Get it dense and keep it smooth. Cat Tandem Vibratory Rollers do that and more. Caterpillar offers a vibratory system for every application. Most models have high frequency combined with low amplitude that match high paving speed on thin lifts as well as low frequency with high amplitude that match low paving speed on thick lifts of stiff material.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180227-37539-28139?wid=735"
+				},
+				{
+					"id": 2,
+					"model": "CB1.8",
+					"power": "24.7",
+					"operating_weight": "3825",
+					"description": "Get it dense and keep it smooth. Cat Tandem Vibratory Rollers do that and more. Caterpillar offers a vibratory system for every application. Most models have high frequency combined with low amplitude that match high paving speed on thin lifts as well as low frequency with high amplitude that match low paving speed on thick lifts of stiff material.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180227-37539-28139?wid=735"
+				},
+				{
+					"id": 3,
+					"model": "CB22B",
+					"power": "36.2",
+					"operating_weight": "5629",
+					"description": "Get it dense and keep it smooth. Cat Tandem Vibratory Rollers do that and more. Caterpillar offers a vibratory system for every application. Most models have high frequency combined with low amplitude that match high paving speed on thin lifts as well as low frequency with high amplitude that match low paving speed on thick lifts of stiff material.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/C10005691?wid=735"
+				},
+				{
+					"id": 4,
+					"model": "CB24B",
+					"power": "36.2",
+					"operating_weight": "6003",
+					"description": "Get it dense and keep it smooth. Cat Tandem Vibratory Rollers do that and more. Caterpillar offers a vibratory system for every application. Most models have high frequency combined with low amplitude that match high paving speed on thin lifts as well as low frequency with high amplitude that match low paving speed on thick lifts of stiff material.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/C10005703?wid=735"
+				},
+				{
+					"id": 5,
+					"model": "CC24B",
+					"power": "36.2",
+					"operating_weight": "5380",
+					"description": "Get it dense and keep it smooth. Cat Tandem Vibratory Rollers do that and more. Caterpillar offers a vibratory system for every application. Most models have high frequency combined with low amplitude that match high paving speed on thin lifts as well as low frequency with high amplitude that match low paving speed on thick lifts of stiff material.",
+					"image": "https://s7d2.scene7.com/is/image/Caterpillar/C10005694?wid=735"
+				}
+			]
+		}
+	]
+}

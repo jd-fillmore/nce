@@ -1,0 +1,9 @@
+@import "./variables.scss";
+
+select {
+  background: $light-grey;
+  padding: 17px;
+  width: 100%;
+  border: none;
+  font-size: 14px;
+}

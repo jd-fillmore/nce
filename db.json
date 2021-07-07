@@ -1,0 +1,21 @@
+{
+  "machines": [
+    {
+      "category": "Skid Steer and Compact Track Loaders",
+      "product_details": [
+        {
+          "id": 1,
+          "model": "226D3",
+          "gross_power": "67.1 HP",
+          "rated_operating_capacity": "1550 lb",
+          "operating_weight": "5849 lb",
+          "electrical": "12 volt Electrical System",
+          "operator_environment": "Gauges: Fuel Level, Hour Meter",
+          "power_train": "Cat C2.2, Turbo Diesel Engine, Meeting Tier 4 Final and Stage V emission standards",
+          "other": "Engine Enclosure, Lockable",
+          "mandatory_equipment": "Hydraulics, Standard or High Flow"
+        }
+      ]
+    }
+  ]
+}
