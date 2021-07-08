@@ -1,9 +1,6 @@
 import APIContextProvider from "./context/apiContext";
 import Header from "./components/Header";
-
-import "../src/scss/general.scss";
-import "../src/scss/variables.scss";
-import "../src/scss/typography.scss";
+import "../src/scss/main.scss";
 import SearchFilter from "./components/SearchFilter";
 
 function App() {
