@@ -17,7 +17,8 @@ export default function MachineList({ filteredCategories, filteredSearch }) {
               <MachineCard
                 image={subItem.image}
                 title={subItem.model}
-                key={subItem.id}
+                id={subItem.id}
+                key={`${subItem.id}-${subItem.models}`}
               />
             ))}
           </div>
