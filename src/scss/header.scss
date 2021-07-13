@@ -1,0 +1,12 @@
+@import "./variables.scss";
+
+.hero {
+  background: url("../img/hero.jpg") no-repeat center center;
+  background-size: cover;
+  padding: 120px 0px 120px 0px;
+  margin-bottom: -20px;
+  h1,
+  p {
+    color: $white;
+  }
+}
