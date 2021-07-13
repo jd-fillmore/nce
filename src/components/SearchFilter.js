@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import { useAPI } from "../context/apiContext";
+import React, { useState, useContext } from "react";
+import { APIContext } from "../context/apiContext";
 import MachineList from "./MachineList";
 
 import "../scss/search.scss";
@@ -7,7 +7,7 @@ import "../scss/dropdown.scss";
 
 export default function SearchFilter() {
   // Load in global state
-  const { data, isLoading } = useAPI();
+  const { data, isLoading } = useContext(APIContext);
 
   // Initiate search value and selected categories in local state
   const [searchValue, setSearchValue] = useState("");
