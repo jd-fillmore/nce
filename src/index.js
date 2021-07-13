@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import APIContextProvider from "./context/apiContext";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import App from "./App";
 import MachineDetail from "./components/MachineDetail";
@@ -7,13 +8,15 @@ import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
-      <Switch>
-        <Route exact path="/" component={App} />
-        <Route exact path="/details/:id" component={MachineDetail} />
-      </Switch>
-      {/* <App /> */}
-    </BrowserRouter>
+    <APIContextProvider>
+      <BrowserRouter>
+        <Switch>
+          <Route exact path="/" component={App} />
+          <Route exact path="/details/:id" component={MachineDetail} />
+        </Switch>
+        {/* <App /> */}
+      </BrowserRouter>
+    </APIContextProvider>
   </React.StrictMode>,
   document.getElementById("root")
 );
