@@ -3,6 +3,7 @@
 			"category": "Skid Steer Loaders",
 			"product_details": [{
 					"id": 1,
+					"category": "Skid Steer Loaders",
 					"model": "226D3",
 					"power": "67.1",
 					"operating_weight": "5849",
@@ -11,6 +12,7 @@
 				},
 				{
 					"id": 2,
+					"category": "Skid Steer Loaders",
 					"model": "232D3",
 					"power": "67.1",
 					"operating_weight": "6514",
@@ -19,6 +21,7 @@
 				},
 				{
 					"id": 3,
+					"category": "Skid Steer Loaders",
 					"model": "236D3",
 					"power": "74.3",
 					"operating_weight": "6567",
@@ -27,6 +30,7 @@
 				},
 				{
 					"id": 4,
+					"category": "Skid Steer Loaders",
 					"model": "239D3",
 					"power": "67.1",
 					"operating_weight": "7434",
@@ -35,6 +39,7 @@
 				},
 				{
 					"id": 5,
+					"category": "Skid Steer Loaders",
 					"model": "242D3",
 					"power": "74.3",
 					"operating_weight": "7138",
@@ -43,6 +48,7 @@
 				},
 				{
 					"id": 6,
+					"category": "Skid Steer Loaders",
 					"model": "246D3",
 					"power": "74.3",
 					"operating_weight": "7478",
@@ -51,6 +57,7 @@
 				},
 				{
 					"id": 7,
+					"category": "Skid Steer Loaders",
 					"model": "249D3",
 					"power": "67.1",
 					"operating_weight": "7831",
@@ -59,6 +66,7 @@
 				},
 				{
 					"id": 8,
+					"category": "Skid Steer Loaders",
 					"model": "259D3",
 					"power": "74.3",
 					"operating_weight": "8987",
@@ -67,6 +75,7 @@
 				},
 				{
 					"id": 9,
+					"category": "Skid Steer Loaders",
 					"model": "262D3",
 					"power": "74.3",
 					"operating_weight": "8296",
@@ -75,6 +84,7 @@
 				},
 				{
 					"id": 10,
+					"category": "Skid Steer Loaders",
 					"model": "272D3",
 					"power": "98",
 					"operating_weight": "9133",
@@ -83,6 +93,7 @@
 				},
 				{
 					"id": 11,
+					"category": "Skid Steer Loaders",
 					"model": "272D3 XE",
 					"power": "110",
 					"operating_weight": "9573",
@@ -91,6 +102,7 @@
 				},
 				{
 					"id": 12,
+					"category": "Skid Steer Loaders",
 					"model": "279D3",
 					"power": "74.3",
 					"operating_weight": "10095",
@@ -99,6 +111,7 @@
 				},
 				{
 					"id": 13,
+					"category": "Skid Steer Loaders",
 					"model": "289D3",
 					"power": "74.3",
 					"operating_weight": "10688",
@@ -107,6 +120,7 @@
 				},
 				{
 					"id": 14,
+					"category": "Skid Steer Loaders",
 					"model": "299D3",
 					"power": "98",
 					"operating_weight": "11464",
@@ -115,6 +129,7 @@
 				},
 				{
 					"id": 15,
+					"category": "Skid Steer Loaders",
 					"model": "299D3 XE",
 					"power": "110",
 					"operating_weight": "11756",
@@ -123,6 +138,7 @@
 				},
 				{
 					"id": 16,
+					"category": "Skid Steer Loaders",
 					"model": "299D3 XE LAND MANAGEMENT",
 					"power": "110",
 					"operating_weight": "12764",
@@ -134,7 +150,8 @@
 		{
 			"category": "Excavators",
 			"product_details": [{
-					"id": 1,
+					"id": 17,
+					"category": "Excavators",
 					"model": "301.7 CR",
 					"power": "21",
 					"operating_weight": "2061",
@@ -142,7 +159,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190913-54994-1f2ac?wid=735"
 				},
 				{
-					"id": 2,
+					"id": 18,
+					"category": "Excavators",
 					"model": "300.9D",
 					"power": "13",
 					"operating_weight": "2061",
@@ -150,7 +168,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190913-54994-1f2ac?wid=735"
 				},
 				{
-					"id": 3,
+					"id": 19,
+					"category": "Excavators",
 					"model": "301.8",
 					"power": "21",
 					"operating_weight": "4473",
@@ -158,7 +177,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190114-57381-17922?wid=735"
 				},
 				{
-					"id": 4,
+					"id": 20,
+					"category": "Excavators",
 					"model": "302 CR",
 					"power": "21",
 					"operating_weight": "4987",
@@ -166,7 +186,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20181112-47740-53167?wid=735"
 				},
 				{
-					"id": 5,
+					"id": 21,
+					"category": "Excavators",
 					"model": "302.7D CR",
 					"power": "20.7",
 					"operating_weight": "6239",
@@ -174,7 +195,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20130723-81627-12296?wid=735"
 				},
 				{
-					"id": 6,
+					"id": 22,
+					"category": "Excavators",
 					"model": "303.5E2 CR",
 					"power": "23.5",
 					"operating_weight": "8209",
@@ -182,7 +204,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20160921-58043-30802?wid=735"
 				},
 				{
-					"id": 7,
+					"id": 23,
+					"category": "Excavators",
 					"model": "303E CR",
 					"power": "23.5",
 					"operating_weight": "7204",
@@ -190,7 +213,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/C10386269?wid=735"
 				},
 				{
-					"id": 8,
+					"id": 24,
+					"category": "Excavators",
 					"model": "304E2 CR",
 					"power": "40.2",
 					"operating_weight": "8996",
@@ -198,7 +222,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20130721-78722-62413?wid=735"
 				},
 				{
-					"id": 9,
+					"id": 25,
+					"category": "Excavators",
 					"model": "305E2 CR",
 					"power": "40.2",
 					"operating_weight": "11443",
@@ -206,7 +231,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20130721-78722-62413?wid=735"
 				},
 				{
-					"id": 10,
+					"id": 26,
+					"category": "Excavators",
 					"model": "306 CR",
 					"power": "55.9",
 					"operating_weight": "15766",
@@ -214,7 +240,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190926-66cab-33d2a?wid=735"
 				},
 				{
-					"id": 11,
+					"id": 27,
+					"category": "Excavators",
 					"model": "307.5",
 					"power": "54.8",
 					"operating_weight": "17905",
@@ -222,7 +249,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180921-39512-27284?wid=735"
 				},
 				{
-					"id": 12,
+					"id": 28,
+					"category": "Excavators",
 					"model": "308 CR",
 					"power": "69.5",
 					"operating_weight": "20077",
@@ -230,7 +258,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180822-53344-03669?wid=735"
 				},
 				{
-					"id": 13,
+					"id": 29,
+					"category": "Excavators",
 					"model": "308 CR VAB",
 					"power": "70.3",
 					"operating_weight": "20906",
@@ -238,7 +267,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20181112-28471-42817?wid=735"
 				},
 				{
-					"id": 14,
+					"id": 30,
+					"category": "Excavators",
 					"model": "309 CR",
 					"power": "69.5",
 					"operating_weight": "21091",
@@ -246,7 +276,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20181018-39654-63929?wid=735"
 				},
 				{
-					"id": 15,
+					"id": 31,
+					"category": "Excavators",
 					"model": "309 CR VAB",
 					"power": "70.3",
 					"operating_weight": "20731",
@@ -258,7 +289,8 @@
 		{
 			"category": "Wheel Loaders",
 			"product_details": [{
-					"id": 1,
+					"id": 32,
+					"category": "Wheel Loaders",
 					"model": "903D",
 					"power": "42",
 					"operating_weight": "9414",
@@ -266,7 +298,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180709-54617-50895?wid=735"
 				},
 				{
-					"id": 2,
+					"id": 33,
+					"category": "Wheel Loaders",
 					"model": "906M",
 					"power": "73",
 					"operating_weight": "12346",
@@ -274,7 +307,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20150401-33819-04876?wid=735"
 				},
 				{
-					"id": 3,
+					"id": 34,
+					"category": "Wheel Loaders",
 					"model": "908M",
 					"power": "73",
 					"operating_weight": "14032",
@@ -282,7 +316,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20151117-54287-18928?wid=735"
 				},
 				{
-					"id": 4,
+					"id": 35,
+					"category": "Wheel Loaders",
 					"model": "910",
 					"power": "110",
 					"operating_weight": "18102",
@@ -290,7 +325,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20200805-ab151-64dfd?wid=735"
 				},
 				{
-					"id": 5,
+					"id": 36,
+					"category": "Wheel Loaders",
 					"model": "914",
 					"power": "110",
 					"operating_weight": "19103",
@@ -302,7 +338,8 @@
 		{
 			"category": "Compactors",
 			"product_details": [{
-					"id": 1,
+					"id": 37,
+					"category": "Compactors",
 					"model": "CB1.7",
 					"power": "24.7",
 					"operating_weight": "3538",
@@ -310,7 +347,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180227-37539-28139?wid=735"
 				},
 				{
-					"id": 2,
+					"id": 38,
+					"category": "Compactors",
 					"model": "CB1.8",
 					"power": "24.7",
 					"operating_weight": "3825",
@@ -318,7 +356,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180227-37539-28139?wid=735"
 				},
 				{
-					"id": 3,
+					"id": 39,
+					"category": "Compactors",
 					"model": "CB22B",
 					"power": "36.2",
 					"operating_weight": "5629",
@@ -326,7 +365,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/C10005691?wid=735"
 				},
 				{
-					"id": 4,
+					"id": 40,
+					"category": "Compactors",
 					"model": "CB24B",
 					"power": "36.2",
 					"operating_weight": "6003",
@@ -334,7 +374,8 @@
 					"image": "https://s7d2.scene7.com/is/image/Caterpillar/C10005703?wid=735"
 				},
 				{
-					"id": 5,
+					"id": 41,
+					"category": "Compactors",
 					"model": "CC24B",
 					"power": "36.2",
 					"operating_weight": "5380",
